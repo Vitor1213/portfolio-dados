@@ -1,0 +1,8 @@
+﻿ID_Cliente,Nome,Email,Telefone,Data_Cadastro,Cidade
+1,Ana Souza,anasouza@email.com,+55 11 91234-5678,2023-01-15,Sao Paulo
+2,Bruno  Lima,brunolima@email.com,+55 11 92345-6789,,Campinas
+2,Bruno Lima,bruno.lima@email.com,+55 11 93456-7890,,Campinas
+3,Carla Mendes,carla.mendes@email.com,,,Santo André
+7,Helena Martins,helena.martins@email.com,+55 11 98901-2345,,Barueri
+7,Helena  Martins,helena.martins@email.com,+55 11 98901-2345,,Barueri
+8,Igor Ferreira,igorferreira@email.com,,2023-08-25,Santos
