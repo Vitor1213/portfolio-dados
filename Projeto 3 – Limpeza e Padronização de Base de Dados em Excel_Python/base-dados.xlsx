@@ -1,0 +1,11 @@
+ID_Cliente	Nome	Email	Telefone	Data_Cadastro	Cidade
+1	ana souza	anaSouza@email.com	11912345678	15/01/2023	sao paulo
+2	Bruno  Lima	brunolima@email.com	(11) 92345-6789	2023-02-10	CAMPINAS
+2	bruno lima	bruno.lima@email.com	11 93456-7890	10-02-2023	campinas
+3	Carla Mendes	carla.mendes@email.com	94567-8901	05/03/23	Santo André
+4	Diego alves	diegoalves@email	95678-9012	18/04/2023	são bernardo
+5	Fernanda Rocha	fernandaroch@@email.com	+55 (11) 96789-0123	22-05-23	Guarulhos
+6	gabriel  costa	gabriel.costa@email	11-97890-1234	30/06/2023	osasco
+7	Helena Martins	helena.martins@email.com	11989012345	12-07-2023	barueri
+7	Helena  martins	helena.martins@email.com	11989012345	12/07/23	Barueri
+8	IGOR FERREIRA	igorferreira@email.com	55 11 98901-2345	25/08/2023	SANTOS
